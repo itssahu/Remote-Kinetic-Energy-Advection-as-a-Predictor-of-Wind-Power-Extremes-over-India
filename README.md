@@ -24,6 +24,8 @@ Fig 3. EOF spatial pattern and PC time series for KE generation data over the In
 subcontinent. X is the data matrix, ϕ1 the eigenvector explaining the largest variance fraction, and
 z1 the projection of X onto the ϕ1 basis.
 
+### Intra-seasonal MW modeling
+
 <img width="2489" height="690" alt="nn1" src="https://github.com/user-attachments/assets/fa52ea7f-7e10-401c-bef4-dc87e8f9581e" />
 
 Fig 4. Modeling intraseasonal variability of wind power generation during the 2017 (drought)
@@ -35,11 +37,15 @@ KE Gen modes by contribution.
 
 <img width="4623" height="605" alt="gy" src="https://github.com/user-attachments/assets/4845f37f-9cc7-4eed-b06f-f61acf372476" />
 
-Fig 5.Spatial Empirical Orthogonal Function (EOF) patterns of the
+Fig 5. Spatial Empirical Orthogonal Function (EOF) patterns of the
 top contributing modes, showing dominant intraseasonal structures of KE advection and generation
 linked to intraseasonal variations.
 
+### Interannual TWh modeling
+
 <img width="629" height="389" alt="image" src="https://github.com/user-attachments/assets/d9aff4c5-4299-4db7-8b63-f2bdb4c66130" />
+
+Fig 6. Seasonal total generation (TWh) for each year as Area Under Curve(AUC) of power generation time series during monsoon season.(DOY: Day Of the Year)
 
 
 
