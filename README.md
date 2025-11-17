@@ -24,7 +24,7 @@ Fig 3. EOF spatial pattern and PC time series for KE generation data over the In
 subcontinent. X is the data matrix, ϕ1 the eigenvector explaining the largest variance fraction, and
 z1 the projection of X onto the ϕ1 basis.
 
-### Intra-seasonal MW modeling
+## Intra-seasonal MW modeling
 
 <img width="2489" height="690" alt="nn1" src="https://github.com/user-attachments/assets/fa52ea7f-7e10-401c-bef4-dc87e8f9581e" />
 
@@ -51,7 +51,7 @@ observed and modeled power generation(R² = 0.9, MSE = 0.01). The right-hand
 panel ranks the contributions of each predictor (PC1–PC10 from KEadv; PC11–PC20
 from KEgen), highlighting that KEadv PC1 and PC7 dominate predictability.
 
-### Interannual TWh modeling
+## Interannual TWh modeling
 
 <img width="629" height="389" alt="image" src="https://github.com/user-attachments/assets/d9aff4c5-4299-4db7-8b63-f2bdb4c66130" />
 
