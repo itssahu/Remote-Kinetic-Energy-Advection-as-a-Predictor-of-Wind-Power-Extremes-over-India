@@ -117,7 +117,8 @@ Meta-EOF3 represents basin-wide rotational anomalies, and Meta-EOF8 reflects
 regional circulation adjustments over peninsular India. Drought years correspond to
 the negative phase of these modes, while flood years correspond to positive phases.
 Because these modes recur and evolve on seasonal lead times, they offer a physically
-grounded basis for early-warning indicators of national wind-generation anomalies.
+grounded basis for early-warning indicators of national wind-generation anomalies, therefore can be beneficial for the wind developers, grid
+operators, as well as policy makers.
 
 
 
