@@ -41,6 +41,16 @@ Fig 5. Spatial Empirical Orthogonal Function (EOF) patterns of the
 top contributing modes, showing dominant intraseasonal structures of KE advection and generation
 linked to intraseasonal variations.
 
+### Summary
+
+This anlysis illustrates the model performance for the drought year 2017. The
+ridge-regression model is trained on the top ten lag-adjusted principal components
+(PCs), as measured by variance explained, from KE advection and generation. The
+model captures the observed intraseasonal variability with strong agreement between
+observed and modeled power generation(R² = 0.9, MSE = 0.01). The right-hand
+panel ranks the contributions of each predictor (PC1–PC10 from KEadv; PC11–PC20
+from KEgen), highlighting that KEadv PC1 and PC7 dominate predictability.
+
 ### Interannual TWh modeling
 
 <img width="629" height="389" alt="image" src="https://github.com/user-attachments/assets/d9aff4c5-4299-4db7-8b63-f2bdb4c66130" />
@@ -77,6 +87,17 @@ using Meta-EOF predictors. (Left) Model coefficients indicate the direction and 
 Meta-EOF’s influence on class probability. (Right) Permutation importance per class quantifies the
 contribution of each Meta-EOF phase to correct classification, emphasizing physically interpretable
 large-scale KE-transport patterns associated with each category.
+
+### Summary
+
+This analysis demonstrates that among all predictors, Meta-EOF1, Meta-EOF3,
+and Meta-EOF8 exert the strongest influence on year-type classification.
+Meta-EOF1 captures the strength of cross-equatorial flow into the Arabian Sea,
+Meta-EOF3 represents basin-wide rotational anomalies, and Meta-EOF8 reflects
+regional circulation adjustments over peninsular India. Drought years correspond to
+the negative phase of these modes, while flood years correspond to positive phases.
+Because these modes recur and evolve on seasonal lead times, they offer a physically
+grounded basis for early-warning indicators of national wind-generation anomalies.
 
 
 
