@@ -51,9 +51,11 @@ observed and modeled power generation(R² = 0.9, MSE = 0.01). The right-hand
 panel ranks the contributions of each predictor (PC1–PC10 from KEadv; PC11–PC20
 from KEgen), highlighting that KEadv PC1 and PC7 dominate predictability.
 
-## Interannual TWh modeling
 
 <img width="629" height="389" alt="image" src="https://github.com/user-attachments/assets/d9aff4c5-4299-4db7-8b63-f2bdb4c66130" />
+
+
+## Interannual TWh modeling
 
 <img width="2000" height="2500" alt="energy_twh" src="https://github.com/user-attachments/assets/246ea6c9-bc3b-4eb3-b5d2-a61842a59beb" />
 
