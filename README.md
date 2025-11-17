@@ -45,6 +45,8 @@ linked to intraseasonal variations.
 
 <img width="629" height="389" alt="image" src="https://github.com/user-attachments/assets/d9aff4c5-4299-4db7-8b63-f2bdb4c66130" />
 
+<img width="2000" height="2500" alt="energy_twh" src="https://github.com/user-attachments/assets/246ea6c9-bc3b-4eb3-b5d2-a61842a59beb" />
+
 Fig 6. Seasonal total generation (TWh) for each year as Area Under Curve(AUC) of power generation time series during monsoon season.(DOY: Day Of the Year)
 
 
