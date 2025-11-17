@@ -9,3 +9,10 @@ regression modeling. The left branch represents intra-seasonal MW variability mo
 Regression, and the right branch illustrates interannual TWh variability modeled using Elastic Net
 and Multinomial Logistic Regression on Meta-EOFs. 
 
+<img width="1083" height="359" alt="eof1" src="https://github.com/user-attachments/assets/970fe7b9-c0e5-4884-a317-d93a0500674a" />
+
+Fig. EOF spatial pattern and PC time series for KE generation data over the Indian
+subcontinent. X is the data matrix, ϕ1 the eigenvector explaining the largest variance fraction, and
+z1 the projection of X onto the ϕ1 basis.
+
+
