@@ -49,6 +49,39 @@ linked to intraseasonal variations.
 
 Fig 6. Seasonal total generation (TWh) for each year as Area Under Curve(AUC) of power generation time series during monsoon season.(DOY: Day Of the Year)
 
+<img width="2090" height="690" alt="gt" src="https://github.com/user-attachments/assets/a1df308f-18b7-4d34-9ff9-8525bab604c8" />
+
+Fig 7. (Left) Coefficient of determination (R²) between individual PCs of KE advection and gener-
+ation and seasonal TWh, showing the dominant predictive power of the first KE Adv mode. (Right)
+Correlation between standardized EOF1 variances for KE Adv and KE Gen(R²=0.63), demonstrat-
+ing coherent interannual modulation by large-scale kinetic-energy generation and fluxes of national
+wind power output. Overall, KE Adv PC1 remains a more reliable predictor of TWh across years.
+
+<img width="2252" height="636" alt="huo" src="https://github.com/user-attachments/assets/e97df544-33d7-4388-881f-b6fd33fcbdf6" />
+
+Fig 8. patial structures of the top Meta-EOFs, highlighting key
+regions of high variability in kinetic-energy advection that underpin predictability of annual wind
+power generation.
+
+<img width="1801" height="766" alt="p" src="https://github.com/user-attachments/assets/7e06e17d-fc47-498e-b9a2-97c2b18bf61b" />
+
+Fig 9. Elastic-Net regression of annual TWh using the top five Meta-EOFs (EOFs of annual
+EOF1 patterns). Negative residuals correspond to wind-drought years (red) and positive residuals
+to flood years (blue). The model achieves R² = 0.75, RMSE = 2.41 TWh. Right panel shows ranked
+contributions of the Meta-EOFs. 
+
+<img width="2566" height="924" alt="hu" src="https://github.com/user-attachments/assets/c4de4ab8-2f80-4e5b-b6bb-5095d068c1fe" />
+
+Fig 10. Multinomial logistic-regression (MLR) classification of drought, normal, and flood years
+using Meta-EOF predictors. (Left) Model coefficients indicate the direction and magnitude of each
+Meta-EOF’s influence on class probability. (Right) Permutation importance per class quantifies the
+contribution of each Meta-EOF phase to correct classification, emphasizing physically interpretable
+large-scale KE-transport patterns associated with each category.
+
+
+
+
+
 
 
 
