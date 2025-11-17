@@ -1,5 +1,23 @@
 # Remote-Kinetic-Energy-Advection-as-a-Predictor-of-Wind-Power-Extremes-over-India
  The framework establishes a physically grounded pathway linking large-scale kinetic energy transport to wind power reliability under climate variability and change.
+ 
+### Abstract
+Wind-reliant power systems are vulnerable to multi-week wind droughts driven by
+large-scale atmospheric variability. Using daily ERA5 100 m winds (2003–2022), we
+develop a lag-adjusted kinetic-energy (KE) budget that quantifies
+available-potential-energy conversion and horizontal KE advection from oceanic source
+regions toward India. Site-level power estimates from a representative turbine curve are
+aggregated to national generation (TWh). Empirical Orthogonal Function (EOF) analysis
+of KE advection and generation identifies dominant intraseasonal modes, while
+“Meta-EOFs”, i.e. EOFs of annual EOF1 patterns, capture interannual variability.
+Regularized regression and logistic-classification models using these Meta-EOFs reproduce
+observed generation anomalies and accurately distinguish flood, normal, and drought
+years. Results show that remote KE advection dominates interannual variability, while KE
+generation and advection patterns capture intraseasonal variability during the summer
+monsoon. The leading Meta-EOFs successfully identify extreme years, raising the future
+possibility of establishing early indicators for seasonal energy generation. The framework
+establishes a physically grounded pathway linking large-scale kinetic energy transport to
+wind power reliability under climate variability and change.
 
  <img width="1710" height="654" alt="ke" src="https://github.com/user-attachments/assets/45784915-c8d7-475b-b751-28c6c741ce72" />
 
