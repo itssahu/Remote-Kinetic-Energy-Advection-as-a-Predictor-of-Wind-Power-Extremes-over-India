@@ -39,5 +39,8 @@ Fig 5.Spatial Empirical Orthogonal Function (EOF) patterns of the
 top contributing modes, showing dominant intraseasonal structures of KE advection and generation
 linked to intraseasonal variations.
 
+<img width="629" height="389" alt="image" src="https://github.com/user-attachments/assets/d9aff4c5-4299-4db7-8b63-f2bdb4c66130" />
+
+
 
 
